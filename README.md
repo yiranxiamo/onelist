@@ -109,7 +109,22 @@ nohup ./onelist -run server >/dev/null 2>&1 &
 
 > 注意：添加挂载目录只能选择你建立媒体库中采用的alist相关目录，要与alist域名一致
 >
-## 7.创建后点击刷新就可以看到刮削进度了
+## 7.创建后点击刷新就可以看到刮削进度了，有需要的请在hosts内添加以下内容
+13.224.161.90 api.themoviedb.org
+104.16.61.155 image.themoviedb.org
+13.35.67.86 api.themoviedb.org
+54.192.151.79 www.themoviedb.org
+13.225.89.239 api.thetvdb.com
+13.249.175.212 api.thetvdb.com
+13.35.161.120 api.thetvdb.com
+13.226.238.76 api.themoviedb.org
+13.35.7.102 api.themoviedb.org
+13.225.103.26 api.themoviedb.org
+13.226.191.85 api.themoviedb.org
+13.225.103.110 api.themoviedb.org
+52.85.79.89 api.themoviedb.org
+13.225.41.40 api.themoviedb.org
+13.226.251.88 api.themoviedb.org
 
 可以进入错误文件中查看
 ### 交流群：
